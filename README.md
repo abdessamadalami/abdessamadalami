@@ -9,8 +9,6 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
-[![42 Profile Card](https://1337-readme-hxx2.vercel.app/api/profile?cursus=42cursus&email=hide&login=ael-oual)](https://github.com/mohouyizme/1337-readme)
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdessamadalami" alt="abdessamadalami" /></a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdessamadalami&show_icons=true&locale=en" alt="abdessamadalami" /></p>
