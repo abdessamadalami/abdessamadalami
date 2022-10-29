@@ -13,5 +13,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdessamadalami" alt="abdessamadalami" /></a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdessamadalami&show_icons=true&locale=en" alt="abdessamadalami" />
 
-[![42 Profile Card](https://1337-readme-hxx2.vercel.app/api/profile?cursus=42cursus&email=hide&login=ael-oual)](https://github.com/mohouyizme/1337-readme)
+<div align="center">
+  <a href = "https://profile.intra.42.fr/users/ael-oual" ><img src="https://badge.mediaplus.ma/darkgray/ael-oual"><a>
+</div>
+
 </p>
