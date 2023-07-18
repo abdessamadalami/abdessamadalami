@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm EL OUALI ALAMI ABDESSAMAD </h1>
-<h3 align="center">A passionate developer from Morocco</h3>
+<h3 align="center"> Software engineering Student at 1337 school </h3>
 <h3 align="left">Profiles:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/eloualialamiabd1?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="Hackerranck profile " height="30" width="40" /> </a>
